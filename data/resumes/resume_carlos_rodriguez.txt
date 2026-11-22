@@ -1,0 +1,13 @@
+NAME: Carlos Rodriguez
+TITLE: Site Reliability Engineer (SRE)
+EXPERIENCE: 6 years
+EDUCATION: B.S. in Computer Systems, Florida State University (2018)
+SKILLS: Python, Bash, Linux, Kubernetes, Ansible, Datadog, Terraform
+
+PROFESSIONAL SUMMARY:
+Reliability engineer dedicated to high uptime, automated incident response, chaos testing, and infrastructure observability.
+
+WORK EXPERIENCE:
+SRE at CloudCore Systems (2020 - Present):
+- Maintained 99.99% service availability across multi-cloud infrastructure.
+- Automated deployment failovers using Python scripts and Ansible playbooks.

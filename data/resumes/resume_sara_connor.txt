@@ -1,0 +1,16 @@
+NAME: Sara Connor
+TITLE: Data Scientist & NLP Specialist
+EXPERIENCE: 5 years
+EDUCATION: M.S. in Data Science, University of Washington (2019)
+SKILLS: Python, NLP, Transformers, HuggingFace, LangChain, Vector Databases, ChromaDB
+
+PROFESSIONAL SUMMARY:
+Data Scientist passionate about Natural Language Processing, retrieval-augmented generation (RAG), and modern transformer embeddings.
+
+WORK EXPERIENCE:
+Senior Data Scientist at CogniAI (2021 - Present):
+- Built enterprise RAG search system indexing 500,000 PDF contracts using ChromaDB.
+- Fine-tuned BERT and modern sentence-transformer models for semantic semantic retrieval.
+
+NLP Researcher at DeepText (2019 - 2021):
+- Researched document classification and named entity extraction algorithms.

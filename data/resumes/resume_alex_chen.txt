@@ -1,0 +1,16 @@
+NAME: Alex Chen
+TITLE: Backend Systems Architect
+EXPERIENCE: 8 years
+EDUCATION: M.S. in Computer Science, Stanford University (2016)
+SKILLS: Python, Go, Distributed Systems, PostgreSQL, Kafka, Kubernetes, gRPC
+
+PROFESSIONAL SUMMARY:
+Senior Backend Architect specializing in high-throughput distributed architectures, event streaming with Kafka, and low-latency microservices.
+
+WORK EXPERIENCE:
+Principal Backend Engineer at StreamTech (2020 - Present):
+- Architected event streaming platform processing 250k events/sec using Go, Python, and Kafka.
+- Optimized PostgreSQL schema and sharding strategies across multi-region deployments.
+
+Senior Systems Engineer at CloudGlobal (2016 - 2020):
+- Designed gRPC communication fabric on Kubernetes clusters.
